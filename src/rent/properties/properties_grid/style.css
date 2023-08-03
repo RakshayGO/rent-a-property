@@ -1,0 +1,13 @@
+.properties-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 20px;
+}
+
+
+.properties-container>* {
+    width: 210px;
+}
